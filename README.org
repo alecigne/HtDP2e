@@ -1,0 +1,7 @@
+#+TITLE: How to Design Programs (HtDP) - 2nd edition
+
+This repository gathers my notes and solutions to exercises for the
+book [[https://www.htdp.org/2018-01-06/Book/][How to Design Programs]] (HtDP).
+
+I used Emacs instead of Dr. Racket; have a look at [[https://github.com/greghendershott/racket-mode][=racket-mode=]] which
+provides a similar experience to Dr. Racket.
