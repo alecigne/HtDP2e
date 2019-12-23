@@ -14,7 +14,7 @@
 
 (define UFO (make-ufo 30 "black"))
 (define ROCKET (bitmap "files/rocket.png"))
-(define AIRCRAFT UFO)
+(define AIRCRAFT ROCKET)
 (define AIRCRAFT-INITIAL-ALTITUDE 300)    ; this is relative to the
                                           ; bottom of the aircraft
 (define AIRCRAFT-SPEED 2)
